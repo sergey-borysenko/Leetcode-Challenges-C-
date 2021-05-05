@@ -1,2 +1,2 @@
-# Leetcode-Challenges-C-
+# Leetcode Challenges C#
 Repo for my leetcode challenges submissions
